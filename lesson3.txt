@@ -1,1 +1,9 @@
-Add lesson 3 file
+This is lesson 3 file.
+
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A:Is pull will fetch the latest commit to my local? and all the commit history ?
+
+I think it is .
+
+END
