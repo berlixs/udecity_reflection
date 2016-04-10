@@ -6,4 +6,9 @@ A:Is pull will fetch the latest commit to my local? and all the commit history ?
 
 I think it is .
 
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: This answer is obviously, no need to explain.
+
+
 END
